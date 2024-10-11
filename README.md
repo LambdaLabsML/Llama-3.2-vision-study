@@ -11,7 +11,7 @@ The study consists of two main components: qualitative testing and throughput te
 ### [Qualitative testing results](qualitative/report.md)
 **The Llama 11B** model demonstrated reliable accuracy on simpler tasks, such as object detection, counting, and color 
 identification, often providing responses that were direct and to the point. However, compared to the larger 
-Llama 90B and other models like GPT-4o and Llava variants, the 11B model lacked descriptive detail and contextual 
+Llama 90B and other models like GPT-4o and Llava variants, the 11B model tends to generate concise answers but lacks descriptive details and contextual 
 awareness, making it less effective in generating nuanced interpretations of images.
 * **Accurate at basic object detection, counting, and OCR with concise responses.**
 * **Less effective at detailed scene understanding.**
