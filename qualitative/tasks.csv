@@ -1,0 +1,29 @@
+Category,Sub-Category,Path,Question,Label
+Perception,Existence,test-images/elephant.png,What objects can be found in this image?,Elephant
+Perception,Existence,test-images/fridge.png,What items are present in this image?,Refrigerator
+Perception,Count,test-images/tennis.png,How many people are there in this image?,Two people
+Perception,Count,test-images/pizza.png,How many slices of pizza are visible in this image?,Two slices of pizza
+Perception,Position,test-images/motorcycle.png,Where is the motorcycle positioned relative to the bus in this image?,Right side of the bus
+Perception,Position,test-images/dog.png,Where is the baby located in relation to the dog in this image?,Right side of the dog
+Perception,Color,test-images/skiing.png,What colors of coats can be seen in this image?,Red coat
+Perception,Color,test-images/couch.png,What colors of couches are present in this image?,Red couch
+Perception,OCR,test-images/phone-number.png,What is the phone number in this image?,0131 555 6363
+Perception,OCR,test-images/coffee-shop.png,What words are present in the logo in this image?,high time coffee shop
+Perception,Poster,test-images/godfather.png,Who is the director of the movie shown in this image?,Francis Ford Coppola
+Perception,Poster,test-images/twilight.png,What is the title of the movie shown in this image?,Twilight (2008)
+Perception,Celebrity,test-images/hepburn.png,Who is the actor inside the red box in this image?,Audrey Hepburn
+Perception,Celebrity,test-images/carrey.png,Who is the actor inside the red box in this image?,Jim Carrey
+Perception,Scene,test-images/moat.png,What type of location does this image depict?,Moat water
+Perception,Scene,test-images/kitchen.png,What type of location does this image depict?,Galley
+Perception,Landmark,test-images/beijing.png,What landmark is shown in this image?,Beijing Temple of Confucius
+Perception,Landmark,test-images/church.png,What landmark is shown in this image?,Church of Saint Giles in Prague
+Perception,Artwork,test-images/still-life.png,What type of artwork is depicted in this image?,Still-life
+Perception,Artwork,test-images/louve.png,Where is this artwork displayed?,Musée du Louvre
+Cognition,Commonsense Reasoning,test-images/stoplight.png,What action should be taken based on the sign in the picture?,Stop
+Cognition,Commonsense Reasoning,test-images/cat.png,How many cats are in this image?,One cat
+Cognition,Numerical Calculation,test-images/add.png,What is the answer to the arithmetic question in the image?,65
+Cognition,Numerical Calculation,test-images/solve.png,What should the value of 'a' be in the picture?,3
+Cognition,Text Translation,test-images/chinese.png,What is the appropriate translation of the text in the image?,"old taste"
+Cognition,Text Translation,test-images/japanese.png,What is the appropriate translation of the text in the image?,"work together"
+Cognition,Code Reasoning,test-images/code1.png,What is the output of the Python code shown in the image?,Hello
+Cognition,Code Reasoning,test-images/code2.png,What is the output of the Python code shown in the image?,0

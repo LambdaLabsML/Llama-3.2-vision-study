@@ -1,0 +1,12 @@
+num_images,model_id,use_flash_attn,batch_size,num_workers,pin_memory,persistent_workers,timeout,total_time,throughput (img/s)
+256,meta-llama/Llama-3.2-90B-Vision-Instruct,FALSE,16,4,TRUE,TRUE,300,615.3582318,0.4160178361
+256,meta-llama/Llama-3.2-90B-Vision-Instruct,FALSE,8,4,TRUE,TRUE,300,682.2743437,0.3752156333
+256,meta-llama/Llama-3.2-90B-Vision-Instruct,FALSE,4,4,TRUE,TRUE,300,751.8702924,0.3404842598
+256,meta-llama/Llama-3.2-90B-Vision-Instruct,FALSE,2,4,TRUE,TRUE,300,809.8508608,0.3161075852
+256,meta-llama/Llama-3.2-90B-Vision-Instruct,FALSE,1,4,TRUE,TRUE,300,786.3100653,0.3255713125
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,32,4,TRUE,TRUE,300,800.2546697,0.3198981646
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,16,4,TRUE,TRUE,300,616.4073901,0.4153097515
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,8,4,TRUE,TRUE,300,594.8370953,0.4303699316
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,4,4,TRUE,TRUE,300,547.9603009,0.4671871294
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,2,4,TRUE,TRUE,300,324.1505225,0.7897565552
+256,meta-llama/Llama-3.2-11B-Vision-Instruct,FALSE,1,4,TRUE,TRUE,300,323.8089461,0.7905896457
