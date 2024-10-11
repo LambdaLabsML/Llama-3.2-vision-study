@@ -11,8 +11,8 @@ We used the following number of GPUs for each model:
 
 ## Results
 
-![Llama 3.2 11B Vision with 1x NVIDIA H100 SXM Tensor Core GPUs](Llama 3.2 11B Vision with 1x NVIDIA H100 SXM Tensor Core GPUs.png)
-![Llama 3.2 90B Vision with 4x NVIDIA H100 SXM Tensor Core GPUs](Llama 3.2 90B Vision with 4x NVIDIA H100 SXM Tensor Core GPUs.png)
+![Llama 3.2 11B Vision with 1x NVIDIA H100 SXM Tensor Core GPUs](llama_3.2_11b_vision_with_1x_nvidia_h100_sxm_tensor_core_gpus.png)
+![Llama 3.2 90B Vision with 4x NVIDIA H100 SXM Tensor Core GPUs](llama_3.2_90b_vision_with_4x_nvidia_h100_sxm_tensor_core_gpus.png)
 
 The raw results from our testing can be found in [throughput.csv](throughput.csv).
 
