@@ -45,4 +45,6 @@ Install the required dependencies by running:
 pip install -r requirements.txt
 ```
 
-Instructions for running the tests can be found in their respective README files.
+Instructions for running the tests can be found in their respective README files:
+* [Qualitative testing](qualitative/README.md)
+* [Throughput testing](throughput/README.md)
