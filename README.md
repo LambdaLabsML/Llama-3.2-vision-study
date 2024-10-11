@@ -9,7 +9,7 @@ The study consists of two main components: qualitative testing and throughput te
 ## Results
 
 * [Qualitative testing results](qualitative/report.md)
-* [Throughput testing results](throughput/results.csv)
+* [Throughput testing results](throughput/throughput.csv)
 
 ## Setup
 
